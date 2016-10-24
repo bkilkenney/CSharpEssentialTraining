@@ -1,0 +1,7 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Generics\Generics\obj\Debug\Generics.pdb
